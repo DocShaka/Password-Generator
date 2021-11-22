@@ -1,4 +1,4 @@
-# Createur <Doc.Shaka & Rouboufi>
+# Createur <Rouboufi & Doc.Shaka>
 # Python Script
 # -*- coding: utf-8 -*-
 # Start
