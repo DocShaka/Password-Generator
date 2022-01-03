@@ -1,3 +1,10 @@
+import os
+from os import *
+
+system("pip install random")
+system("pip install tkinter")
+system("cls")
+
 # Createur <Rouboufi & Doc.Shaka>
 # Python Script
 # -*- coding: utf-8 -*-
